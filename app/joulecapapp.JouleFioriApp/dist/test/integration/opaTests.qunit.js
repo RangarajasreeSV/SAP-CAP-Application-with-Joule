@@ -1,0 +1,2 @@
+sap.ui.require(["sap/fe/test/JourneyRunner","joulecapapp/JouleFioriApp/test/integration/FirstJourney","joulecapapp/JouleFioriApp/test/integration/pages/EmployeeList","joulecapapp/JouleFioriApp/test/integration/pages/EmployeeObjectPage"],function(e,p,o,i){"use strict";var e=new e({launchUrl:sap.ui.require.toUrl("joulecapapp/JouleFioriApp")+"/index.html"});e.run({pages:{onTheEmployeeList:o,onTheEmployeeObjectPage:i}},p.run)});
+//# sourceMappingURL=opaTests.qunit.js.map

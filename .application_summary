@@ -1,0 +1,5 @@
+{
+  "ProjectOverviewURL": "https://27625a4etrial.launchpad.cfapps.us10.hana.ondemand.com/lcapjoulecapapp.joulecapappLaunchpad-1.0.0",
+  "DeployedUTCTime": "2024-06-21T10:49:27.511Z",
+  "ApplicationLogURL": "https://logs.cf.us10-001.hana.ondemand.com/app/dashboards#/view/Overview?_g=(filters:!((query:(match_phrase:(component_name:joulecapapp-srv)))))"
+}
